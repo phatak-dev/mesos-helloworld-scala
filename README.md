@@ -1,4 +1,4 @@
-#Distrubuted Shell using Mesos
+#Mesos hello world in scala
 
 This repository contains code to run shell commands in a distributed manner using Apache mesos
 

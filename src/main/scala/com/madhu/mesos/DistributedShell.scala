@@ -16,7 +16,7 @@ object DistributedShell {
   def main(args: Array[String]) {
 
     val framework = FrameworkInfo.newBuilder.
-    setName("scalaDemo").
+    setName("DistributedShell").
     setUser("").
     setRole("*").
     setCheckpoint(false).
